@@ -6,6 +6,9 @@ describe('Login on my application', () => {
         let title = await browser.getTitle()
         expect(title).toHaveTextContaining('Home');
     })
+    it('Scroll to End', async() => {
+        await (await $('.footer-social')).scrollIntoView({behavior: "smooth"})
+    })
 })
 
 

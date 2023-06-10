@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": ".//*[@aria-labelledby=(//*[normalize-space(text()) = \"30W Fast Charger\"]/@id)] | .//*[@aria-describedby=(//*[normalize-space(text()) = \"30W Fast Charger\"]/@id)] | .//*[@aria-label = \"30W Fast Charger\"] | .//input[@id = (//label[normalize-space() = \"30W Fast Charger\"]/@for)] | .//input[@placeholder=\"30W Fast Charger\"] | .//textarea[@placeholder=\"30W Fast Charger\"] | .//input[@aria-placeholder=\"30W Fast Charger\"] | .//textarea[@aria-placeholder=\"30W Fast Charger\"] | .//*[@title=\"30W Fast Charger\"] | .//img[@alt=\"30W Fast Charger\"] | .//*[normalize-space(text()) = \"30W Fast Charger\"]"
+}

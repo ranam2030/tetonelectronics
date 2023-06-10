@@ -1,0 +1,4 @@
+{
+  "using": "link text",
+  "value": "ALL RIGHTS RESERVED | PH +880-1973-102030"
+}
